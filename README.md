@@ -1,4 +1,4 @@
-node-acl
+node-acl [![Build Status](https://travis-ci.org/romansky/node-acl.png)](https://travis-ci.org/romansky/node-acl)
 ====
 
 A tiny ACL toolkit for Node.js
