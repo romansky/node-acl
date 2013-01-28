@@ -1,10 +1,10 @@
 {
     "name" : "node-acl",
-    "version" : "0.0.1",
+    "version" : "0.0.2",
     "description" : "A tiny ACL toolkit",
     "main" : "./index.js",
     "keywords" : [
-        "strict", "Stricter", "types", "typed"
+        "acl","access list", "permission","node-acl"
     ],
     "repository" : {
         "type" : "git",
